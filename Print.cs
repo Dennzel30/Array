@@ -12,6 +12,7 @@ namespace ConsoleRelease2
         { 
         for (int i = 0; i<5; i++)
 			{
+                Console.WriteLine("Test");
                 Console.WriteLine("Bla ");
 			}
         }
