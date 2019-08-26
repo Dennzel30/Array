@@ -23,6 +23,8 @@ namespace ConsoleRelease2
 
             Console.WriteLine(instance.FindMax());
 
+            Print.Blabla();
+
 
             Console.ReadKey();
             Console.ReadKey();
