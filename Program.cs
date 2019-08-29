@@ -23,7 +23,7 @@ namespace ConsoleRelease2
 
             Console.WriteLine(instance.FindMax());
 
-            Print.Blabla();
+            PrintForFun myPrint = new PrintForFun();
 
 
             Console.ReadKey();

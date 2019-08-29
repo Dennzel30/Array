@@ -10,3 +10,15 @@ C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\arrayLib.dll
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\BiggestNumber.dll
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\ClassLibrary1.dll
 C:\Users\Olga\Desktop\A-Level\les8\ConsoleRelease2\bin\Debug\MathArray.dll
+D:\Education\A-Level\Lesson_21\Array\bin\Debug\ConsoleRelease2.exe.config
+D:\Education\A-Level\Lesson_21\Array\bin\Debug\ConsoleRelease2.exe
+D:\Education\A-Level\Lesson_21\Array\bin\Debug\ConsoleRelease2.pdb
+D:\Education\A-Level\Lesson_21\Array\bin\Debug\arrayLib.dll
+D:\Education\A-Level\Lesson_21\Array\bin\Debug\BiggestNumber.dll
+D:\Education\A-Level\Lesson_21\Array\bin\Debug\ClassLibrary1.dll
+D:\Education\A-Level\Lesson_21\Array\bin\Debug\MathArray.dll
+D:\Education\A-Level\Lesson_21\Array\obj\Debug\ConsoleRelease2.csprojAssemblyReference.cache
+D:\Education\A-Level\Lesson_21\Array\obj\Debug\ConsoleRelease2.csproj.CoreCompileInputs.cache
+D:\Education\A-Level\Lesson_21\Array\obj\Debug\ConsoleRelease2.csproj.CopyComplete
+D:\Education\A-Level\Lesson_21\Array\obj\Debug\ConsoleRelease2.exe
+D:\Education\A-Level\Lesson_21\Array\obj\Debug\ConsoleRelease2.pdb
